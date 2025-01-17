@@ -2,7 +2,7 @@
 
 ## ==> [Link to all problem set](https://github.com/anirudha-8/react.js-practical-problems.git)
 
-## ==> [🔥Live Demo](https://12-file-uploader.vercel.app/)
+## ==> [🔥Live Demo](https://12-file-uploader-react-problem.vercel.app/)
 
 Welcome to the **twelfth problem** of the React 30+ Practical Problems series! In this challenge, we will build a File Uploader component that allows users to upload images.
 
